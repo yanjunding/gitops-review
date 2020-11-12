@@ -9,3 +9,4 @@ spec:
   skippedTemplates:
   - rails-pgsql-persistent
   - rails-postgresql-example
+  - httpd-example
