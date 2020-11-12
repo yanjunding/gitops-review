@@ -11,3 +11,9 @@ metadata:
   name: rails-postgresql-example
   namespace: openshift
 ---
+apiVersion: template.openshift.io/v1
+kind: Template
+metadata:
+  name: httpd-example
+  namespace: openshift
+---
